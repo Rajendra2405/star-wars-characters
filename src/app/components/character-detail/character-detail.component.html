@@ -1,0 +1,49 @@
+<a mat-raised-button style="background-color: blue" [routerLink]="['/characters']">
+    <mat-icon>arrow_back</mat-icon>
+    Back To Characters List
+</a>
+
+
+<mat-card >
+    <mat-card-header>
+        <mat-card-title>
+            {{character.name}}
+        </mat-card-title>
+        <mat-card-subtitle>{{character.gender}}</mat-card-subtitle>
+    </mat-card-header>
+    <br>
+    <mat-card-content>
+        <div style="display: flex; justify-content: space-between;" rowHeight="100px">
+            <div style="display: flex !important; flex-direction: column !important;">
+                <h5 class="mat-body-strong">Height</h5>
+                <h5 class="mat-body">{{character.height}}</h5>
+            </div>
+            <div style="display: flex !important; flex-direction: column !important;">
+                <span class="mat-body-strong">Mass</span>
+                <span class="mat-body">{{character.mass}}</span>
+            </div>
+            <div style="display: flex !important; flex-direction: column !important;">
+                <span class="mat-body-strong">Hair Color</span>
+                <span class="mat-body">{{character.hair_color}}</span>
+            </div>
+            <div style="display: flex !important; flex-direction: column !important;">
+                <span class="mat-body-strong">Skin Color</span>
+                <span class="mat-body">{{character.skin_color}}</span>
+            </div>
+            <div style="display: flex !important; flex-direction: column !important;">
+                <span class="mat-body-strong">Eye Color</span>
+                <span class="mat-body">{{character.eye_color}}</span>
+            </div>
+            <div style="display: flex !important; flex-direction: column !important;">
+                <span class="mat-body-strong">Birth Year</span>
+                <span class="mat-body">{{character.birth_year}}</span>
+            </div>
+            <div style="display: flex !important; flex-direction: column !important;">
+                <span class="mat-body-strong"># of Films</span>
+                <span class="mat-body">{{character.films.length}}</span>
+            </div>
+        </div>
+        
+    </mat-card-content>
+</mat-card>
+<app-films-list [films]="films"></app-films-list>

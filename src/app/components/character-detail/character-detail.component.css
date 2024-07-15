@@ -1,0 +1,41 @@
+a.mat-raised-button {
+  display: block;
+  text-align: center;
+}
+
+.mat-card {
+  margin: 20px;
+}
+
+.mat-card-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mat-card-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.mat-card-content > div {
+  flex-basis: calc(33.33% - 20px);
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.mat-body-strong {
+  font-weight: bold;
+}
+
+.mat-body {
+  margin-top: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  .mat-card-content > div {
+    flex-basis: 100%;
+  }
+}

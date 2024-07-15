@@ -1,0 +1,13 @@
+.content {
+  padding: 20px;
+}
+@font-face {
+  font-family: 'StarJedi';
+  src: url('/assets/fonts/StarJedi/StarJedi.ttf') format('truetype');
+}
+
+.star-wars-title {
+  font-family: 'StarJedi', sans-serif;
+  font-size: 24px; /* Adjust size as needed */
+  color: white; /* Adjust color as needed */
+}

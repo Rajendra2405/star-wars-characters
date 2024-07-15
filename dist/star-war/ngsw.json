@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "timestamp": 1721027368149,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.9655f9fd3ed73cfb.js",
+        "/manifest.webmanifest",
+        "/polyfills.b99ab2d7f841885f.js",
+        "/runtime.9cb140501385858a.js",
+        "/styles.7da2a839a8312a17.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/fonts/star_jedi/Starjedi.ttf",
+        "/assets/fonts/star_jedi/starjedi/Star Jedi font guide Word97.doc",
+        "/assets/fonts/star_jedi/starjedi/Starjhol.ttf",
+        "/assets/fonts/star_jedi/starjedi/sample003.jpg",
+        "/assets/fonts/star_jedi/starjedi/starjedi hollow sample.jpg",
+        "/assets/fonts/star_jedi/starjedi/starjedi sample.jpg",
+        "/assets/fonts/star_jedi/starjout/Star Jedi Outline font guide Word97.doc",
+        "/assets/fonts/star_jedi/starjout/Star Jedi Outline sample.jpg",
+        "/assets/fonts/star_jedi/starjout/Starjout.ttf",
+        "/assets/fonts/star_jedi/stjedise/STJEDISE.TTF",
+        "/assets/fonts/star_jedi/stjedise/StarJedi Special Edition font guide Word97.doc",
+        "/assets/fonts/star_jedi/stjedise/stjedise sample.jpg",
+        "/assets/fonts/star_jedi/stjelogo/Star Jedi Logo font guide Word97.doc",
+        "/assets/fonts/star_jedi/stjelogo/Stjldbl1.ttf",
+        "/assets/fonts/star_jedi/stjelogo/Stjldbl2.ttf",
+        "/assets/fonts/star_jedi/stjelogo/Strjmono.ttf",
+        "/assets/fonts/star_jedi/stjelogo/logodoubleline samples.jpg",
+        "/assets/fonts/star_jedi/stjelogo/logomonoline samples.jpg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/fonts/star_jedi/Starjedi.ttf": "d63c0c8eb5df9b1c3b672c644898bc17d3544902",
+    "/assets/fonts/star_jedi/starjedi/Star Jedi font guide Word97.doc": "90a5bc1a7ac758bc3c935363c39d7e70834e30b2",
+    "/assets/fonts/star_jedi/starjedi/Starjhol.ttf": "78c1b5f071e445c3dda1f6ccc125e443f4b9fe4e",
+    "/assets/fonts/star_jedi/starjedi/sample003.jpg": "424ff8a5d4586625ef3a4849bd134470ff34c751",
+    "/assets/fonts/star_jedi/starjedi/starjedi hollow sample.jpg": "50a163d37cdeca2f99a5630fdd2afe26901f7f96",
+    "/assets/fonts/star_jedi/starjedi/starjedi sample.jpg": "832e9b8a4f5965f7f63fb6c5ac15f05718a0f515",
+    "/assets/fonts/star_jedi/starjout/Star Jedi Outline font guide Word97.doc": "2eca394c980d7974d0f30526a3fb8ec60f6e833e",
+    "/assets/fonts/star_jedi/starjout/Star Jedi Outline sample.jpg": "b5279c7809507bca95a1f5e24d70e46d53827c1f",
+    "/assets/fonts/star_jedi/starjout/Starjout.ttf": "ac7df750a43f49207aa2ed6d0a300026ab797539",
+    "/assets/fonts/star_jedi/stjedise/STJEDISE.TTF": "d42ebf3d6fb53d00b162d80736b359f4328dc6d8",
+    "/assets/fonts/star_jedi/stjedise/StarJedi Special Edition font guide Word97.doc": "e2549165ba2cf29dd01f5592508e6cadea304fe9",
+    "/assets/fonts/star_jedi/stjedise/stjedise sample.jpg": "5e364783777ecfc7736d0b6260c8cb5cbb1660b7",
+    "/assets/fonts/star_jedi/stjelogo/Star Jedi Logo font guide Word97.doc": "7c3dcb6d26dfae2a767581baba3180b85d725f75",
+    "/assets/fonts/star_jedi/stjelogo/Stjldbl1.ttf": "1ffee2bbcca0a775200b2bf43e38275747140459",
+    "/assets/fonts/star_jedi/stjelogo/Stjldbl2.ttf": "9a38d6adb3a4871b2abaf93da93f7c9042b18daf",
+    "/assets/fonts/star_jedi/stjelogo/Strjmono.ttf": "31a0813fb4ab533ced89719b9bf9b25aefac03c2",
+    "/assets/fonts/star_jedi/stjelogo/logodoubleline samples.jpg": "2c6f238c264d23a7e91772173dfe130589e29bd9",
+    "/assets/fonts/star_jedi/stjelogo/logomonoline samples.jpg": "eb7c3e41c4dd5250934e7d6489276d1199b0c0ca",
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "d8a9391683d262ea1ea0ab5749aea18453312d29",
+    "/main.9655f9fd3ed73cfb.js": "8a92a8449e453e08d2ee1964db3f934aa24146b9",
+    "/manifest.webmanifest": "ebae28ecd4748eeb75ea4e9de632dd68b8c30beb",
+    "/polyfills.b99ab2d7f841885f.js": "5de441235238e8192a2fcab1f707d56967f23cb3",
+    "/runtime.9cb140501385858a.js": "e6e8a7dbbed9e99ccbf9090f06c85483be847cbb",
+    "/styles.7da2a839a8312a17.css": "1c8d3708ee90bf45ef6735706ba8ab619f8a8819"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

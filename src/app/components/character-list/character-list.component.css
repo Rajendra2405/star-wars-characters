@@ -1,0 +1,25 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.example-table-container {
+    flex: 1;
+    overflow-x: auto; /* Allow horizontal scroll on smaller screens */
+}
+
+.example-table {
+    width: 100%;
+}
+
+.mat-paginator {
+    align-self: center;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    .example-table-container {
+        overflow-x: scroll; /* Allow horizontal scroll on smaller screens */
+    }
+}
